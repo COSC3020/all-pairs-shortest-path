@@ -3,7 +3,7 @@
 In the lectures, we've seen Dijkstra's algorithm for finding the shortest paths
 from a given vertex to all other vertices in the graph. We've also covered the
 Floyd-Warshall algorithm for finding the shortest path between all *pairs* of
-vertices works as follows:
+vertices. It works as follows:
 
 Given a graph $G = (V, E)$ with weighted edges:
 - initialize a $|V|\times|V|$ matrix `dist` to $\infty$
