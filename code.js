@@ -1,3 +1,4 @@
-// eslint-disable-next-line no-unused-varsfunction allPairsShortestPaths(graph) {
+// eslint-disable-next-line no-unused-vars
+function allPairsShortestPaths(graph) {
     return [];
 }
